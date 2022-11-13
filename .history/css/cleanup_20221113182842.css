@@ -14,15 +14,5 @@ body div#wall #tag-3.slick {
 
 #wall .parent #tag-4 {
     display: none;
-}
-
-body div#wall .parent #tag-5.slick {
-    display: none;
-}
-
-
-
-html body div#wall div.parent div > #tag-7.slick {
-    display: none;
-}
+  }
 
